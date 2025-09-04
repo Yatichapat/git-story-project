@@ -2,4 +2,4 @@
 
 “Once upon a time, in a land full of bugs,”.
 
-"Earn walks in Kasetsart University"
+"Mink walks in Kasetsart University"
